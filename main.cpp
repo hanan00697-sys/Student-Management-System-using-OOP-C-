@@ -4,7 +4,7 @@
 
 using namespace std;
 
-class Person {
+class Person {g
 protected:
     string name;
     int age;
